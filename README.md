@@ -34,18 +34,18 @@ git clone "방금 복사한 URL"
 예시:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/Network-Leader/gitTEST.git
 ```
 
 예시의 `this-is-you`는 본인 깃헙 계정으로 바꾸어주세요. 이 명령어는
-깃헙의 first-contributions 저장소의 내용을 로컬 컴퓨터에 복사합니다.
+깃헙의 gitTEST 저장소의 내용을 로컬 컴퓨터에 복사합니다.
 
 ## 브랜치 생성하기
 
 (아직 저장소 디렉토리가 아니라면) 아래의 명령어를 입력하여 좀전에 컴퓨터에 복사한 저장소 디렉토리로 이동합니다.
 
 ```
-cd first-contributions
+cd gitTEST
 ```
 
 그리고 `git checkout` 명령어을 입력하여 브랜치를 생성합니다.
