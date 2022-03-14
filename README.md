@@ -107,4 +107,4 @@ git push origin <add-your-name>
 
 ## 첫 기여, 그리고 그 후
 
-축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!!
+축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!!!
