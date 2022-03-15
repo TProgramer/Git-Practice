@@ -56,7 +56,7 @@ git checkout -b add-alonzo-church
 
 ## 필요한 변경사항을 작성하고 커밋하기
 
-이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 아래와 같이 추가해주세요. 이때 맨 처음이나 맨 끝을 제외한 중간에 마음에 드는 곳에 추가하시면 됩니다. 그리고 파일을 저장하세요.
+이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 추가해주세요. 이름을 추가할때는 줄바꿈으로 구분해주세요. 이때 마크다운 분법에 따라 이전 이름에 '   '(띄어쓰기 3번)을 해야 정상적인 줄마꿈이 됩니다. 그리고 파일을 저장하세요.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
