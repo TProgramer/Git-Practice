@@ -1,7 +1,4 @@
-
-
 # 첫 기여
-
 
 어렵습니다. 무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
 
@@ -9,7 +6,7 @@
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="이 저장소 포크하기" />
 
-가장 먼저, Git이 없으시다면  [설치](https://help.github.com/articles/set-up-git/)해주세요.
+가장 먼저, Git이 없으시다면 [설치](https://help.github.com/articles/set-up-git/)해주세요.
 
 
 ## 저장소 클론하기
@@ -63,9 +60,9 @@ git checkout -b add-alonzo-church
 
 이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 아래와 같이 추가해주세요. 이때 맨 처음이나 맨 끝을 제외한 중간에 마음에 드는 곳에 추가하시면 됩니다. 그리고 파일을 저장하세요.
 
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />  
+<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
-프로젝트 디렉터리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다. 
+프로젝트 디렉터리에서 `git status` 명령을 실행하면 변경사항을 볼 수 있습니다.
 
 변경사항을 아래 `git add` 명령어를 입력하여 추가합니다.
 
@@ -107,4 +104,4 @@ git push origin <add-your-name>
 
 ## 첫 기여, 그리고 그 후
 
-축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!
+축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!!!
