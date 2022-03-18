@@ -1,3 +1,7 @@
+<details>
+<summary>첫 기여 테스트 다시보기</summary>
+<div markdown="1">
+
 # 첫 기여
 
 어렵습니다. 무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
@@ -103,3 +107,14 @@ git push origin <add-your-name>
 ## 첫 기여, 그리고 그 후
 
 축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!!!
+
+</div>
+</details>
+
+# 👨‍🌾 모코코 총공격!! -01
+
+성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 Contributors.md 파일에 장난을 쳐버리고 말았습니다. Contributors 파일에 적힌 여러분들 이름을 바꾸는 장난들을요! 여러분들은 파일에 적힌 이름들을 바로잡고 여러분들의 이름과 동일한 폴더를 생성해야 합니다.
+<img style=“float: mid;” src="https://user-images.githubusercontent.com/31841502/159016081-12f707ae-50a7-450a-b648-eb5e1a401974.png" alt=“모코코 깡” />
+
+## 여러분이 해야 할 일들
+git pull, 그리고 충돌해결
