@@ -10,7 +10,6 @@
 
 가장 먼저, Git이 없으시다면 [설치](https://help.github.com/articles/set-up-git/)해주세요.
 
-
 ## 저장소 클론하기
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="이 저장소 복제하기" />
@@ -60,7 +59,7 @@ git checkout -b add-alonzo-church
 
 ## 필요한 변경사항을 작성하고 커밋하기
 
-이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 추가해주세요. 이름을 추가할때는 줄바꿈으로 구분해주세요. 이때 마크다운 분법에 따라 이전 이름에 '   '(띄어쓰기 3번)을 해야 정상적인 줄바꿈이 됩니다. 그리고 파일을 저장하세요.
+이제 텍스트 편집기에서 `Contributors.md` 파일을 열고 본인의 이름을 추가해주세요. 이름을 추가할때는 줄바꿈으로 구분해주세요. 이때 마크다운 분법에 따라 이전 이름에 ' '(띄어쓰기 3번)을 해야 정상적인 줄바꿈이 됩니다. 그리고 파일을 저장하세요.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -111,13 +110,13 @@ git push origin <add-your-name>
 </div>
 </details>
 
-# 👨‍🌾 에피소드1 : 모코코를 찾아라!! 
+# 👨‍🌾 에피소드1 : 모코코를 찾아라!!
 
-성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 mokoko폴더에 숨어들어 Contributors 파일들을 망치려하고 있습니다. 여러분들은 mokoko폴더에 숨어있는 모코코 jpg사진들을 모두 없애야 합니다! 하지만, mokoko 사진들은 함부로 삭제할 수가 없습니다. github issues에 등록된 모코코 사진들만 삭제가 가능합니다. 여러분들은 아래 절차에 따라 모든 모코코 사진을 삭제해주세요!
-![모코코콘1](https://user-images.githubusercontent.com/31841502/159016081-12f707ae-50a7-450a-b648-eb5e1a401974.png)  
-
+성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 mokoko폴더에 숨어들어 Contributors 파일들을 망치려하고 있습니다. 여러분들은 mokoko폴더에 숨어있는 모코코 jpg사진들을 모두 없애야 합니다! 하지만, mokoko 사진들은 함부로 삭제할 수가 없습니다. github issues에 등록된 모코코 사진들만 삭제가 가능합니다. 여러분들은 아래 절차에 따라 모든 모코코 사진을 삭제해주세요!  
+![모코코콘1](https://user-images.githubusercontent.com/31841502/159016081-12f707ae-50a7-450a-b648-eb5e1a401974.png)
 
 ## 여러분이 해야 할 일들
+
 1. issues에 [mokoko 발견! - AA모코코]가 등록되면 Assignees에 본인을 등록 한 후 작업을 시작하세요.
 2. git pull origin main 을 통해 최신 버전의 main브랜치를 가져옵니다.
 3. AA모코코와 이름이 같은 mokoko폴더 안의 사진을 삭제 한 후, add,commit,push를 순서대로 진행 해 주세요.
