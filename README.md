@@ -1,3 +1,7 @@
+<details>
+<summary>첫 기여 테스트 다시보기</summary>
+<div markdown="1">
+
 # 첫 기여
 
 어렵습니다. 무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
@@ -103,3 +107,18 @@ git push origin <add-your-name>
 ## 첫 기여, 그리고 그 후
 
 축하합니다! 앞으로 기여자로써 자주 사용하게될 기본 워크플로우, _포크(fork) -> 클론(clone) -> 수정(edit) -> 풀 요청(pull request)_, 를 완수하셨습니다!!!
+
+</div>
+</details>
+
+# 👨‍🌾 에피소드1 : 모코코를 찾아라!! 
+
+성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 mokoko폴더에 숨어들어 Contributors 파일들을 망치려하고 있습니다. 여러분들은 mokoko폴더에 숨어있는 모코코 jpg사진들을 모두 없애야 합니다! 하지만, mokoko 사진들은 함부로 삭제할 수가 없습니다. github issues에 등록된 모코코 사진들만 삭제가 가능합니다. 여러분들은 아래 절차에 따라 모든 모코코 사진을 삭제해주세요!
+![모코코콘1](https://user-images.githubusercontent.com/31841502/159016081-12f707ae-50a7-450a-b648-eb5e1a401974.png)  
+
+
+## 여러분이 해야 할 일들
+1. issues에 [mokoko 발견! - AA모코코]가 등록되면 Assignees에 본인을 등록 한 후 작업을 시작하세요.
+2. git pull origin main 을 통해 최신 버전의 main브랜치를 가져옵니다.
+3. AA모코코와 이름이 같은 mokoko폴더 안의 사진을 삭제 한 후, add,commit,push를 순서대로 진행 해 주세요.
+4. pull request를 등록하면 끝!
