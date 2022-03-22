@@ -119,5 +119,10 @@ git push origin <add-your-name>
 
 1. issues에 [mokoko 발견! - AA모코코]가 등록되면 Assignees에 본인을 등록 한 후 작업을 시작하세요.
 2. git pull origin main 을 통해 최신 버전의 main브랜치를 가져옵니다.
-3. AA모코코와 이름이 같은 mokoko폴더 안의 사진을 삭제 한 후, add,commit,push를 순서대로 진행 해 주세요.
+3. 새로 브랜치를 만들어 AA모코코와 이름이 같은 mokoko폴더 안의 사진을 삭제 한 후, add,commit,push를 순서대로 진행 해 주세요.
 4. pull request를 등록하면 끝!
+
+## 유의사항
+
+- 한 명 당 한 개의 모코코 사진만 삭제할 수 있습니다.
+- 등록된 Issues에 자신이 해결하겠다 하는 의미로 Assignees에 본인을 추가하고 작업해주세요.
