@@ -113,7 +113,7 @@ git push origin <add-your-name>
 
 # 👨‍🌾 모코코 총공격!! -01
 
-성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 Contributors.md 파일에 장난을 쳐버리고 말았습니다. Contributors 파일에 적힌 여러분들 이름을 바꾸는 장난들을요! 여러분들은 파일에 적힌 이름들을 바로잡아야 합니다.
+성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 Contributors.md 파일에 장난을 쳐버리고 말았습니다. Contributors 파일에 적힌 여러분들 이름을 바꾸는 장난들을요! 여러분들은 파일에 적힌 이름들을 바로잡아야 합니다.   
 ![모코코콘1](https://user-images.githubusercontent.com/31841502/159016081-12f707ae-50a7-450a-b648-eb5e1a401974.png)  
 
 
