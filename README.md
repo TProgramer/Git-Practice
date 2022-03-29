@@ -1,5 +1,5 @@
 <details>
-<summary>첫 기여 테스트 다시보기</summary>
+<summary>첫 기여 테스트 [다시보기]</summary>
 <div markdown="1">
 
 # 첫 기여
@@ -110,6 +110,10 @@ git push origin <add-your-name>
 </div>
 </details>
 
+<details>
+<summary>👨‍🌾 에피소드1 : 모코코를 찾아라!! [다시보기] </summary>
+<div markdown="1">
+
 # 👨‍🌾 에피소드1 : 모코코를 찾아라!!
 
 성공적으로 Contributors에 이름을 남긴 여러분들을 시기한 나쁜 모코코들이 mokoko폴더에 숨어들어 Contributors 파일들을 망치려하고 있습니다. 여러분들은 mokoko폴더에 숨어있는 모코코 jpg사진들을 모두 없애야 합니다! 하지만, mokoko 사진들은 함부로 삭제할 수가 없습니다. github issues에 등록된 모코코 사진들만 삭제가 가능합니다. 여러분들은 아래 절차에 따라 모든 모코코 사진을 삭제해주세요!  
@@ -128,3 +132,35 @@ git push origin <add-your-name>
 - 등록된 Issues에 자신이 해결하겠다 하는 의미로 Assignees에 본인을 추가하고 작업해주세요.
 - Assignees에 할당된 팀원이 있다면 이미 배정자가 있다는 의미이므로 동시작업은 하지 말아주세요.
 - 모든 모코코가 동시에 Issues에 등록되지는 않습니다. 어느 날 어느시간 갑자기 추가될 수 있으니 Slack알림을 참고해주세요!
+
+</div>
+</details>
+
+
+# 🍗 에피소드2 : 모코코 치킨 종합선물세트!
+
+실컷 혼쭐이 난 모코코들이 반성의 의미로 여러분들에게 선물을 들고 찾아왔습니다. 모두가 좋아할거라 확신하며 모코코들이 들고 온 선물은 바로바로 **모코코 치킨 종합선물세트!!** 민트초코 치킨과 따뜻한 파인애플 치킨, 고수를 듬뿍올린 어니언 치킨이 어우러진 모코코 치킨 종합선물세트를 여러분들이 꼭 먹어치워야 합니다. 착한 어른은 성의를 무시해선 안되거든요. 하지만 3개의 치킨이 든 모코코 치킨 종합선물세트는 한 명이서 다 먹기엔 양이 너무 많습니다. 그러기에 한 테이블에 3명이서 모여 치킨을 먹어야 합니다. 다음 절차를 따라 3명이서 테이블에 모여 모코코 치킨 종합선물세트를 먹어주세요!
+![모코코콘1](https://user-images.githubusercontent.com/31841502/160538195-de89d2ba-acef-4709-9262-a52816da89a9.png)
+
+## 요구되는 사전지식
+
+실습을 시작하기 전 git flow에 대한 선행 학습이 필요합니다. 크게 main-develop-feature브랜치로 나뉘어져 작업되는 flow를 잘 모르시는 분들은 구글링이나 아래 링크를 통해 꼭 공부를 하고 진행해주세요.
+[우린 Git-flow를 사용하고 있어요][https://techblog.woowahan.com/2553/]
+[Git flow 개념 이해하기][https://uxgjs.tistory.com/183]
+
+
+## 여러분이 해야 할 일들
+
+1. git pull origin develop 을 통해 최신 버전의 develop브랜치를 가져옵니다. 자신이 작업할 브랜치 이름을 feature-이름 으로 작성해 작업해주세요.
+2. table.txt파일에 본인의 이름을 테이블 근처에 넣고 저장해주세요. 그 후 add,commit을 순서대로 진행 해 주세요.
+3. origin develop 브랜치에 push 후 pull request를 등록해주세요.
+4. pull request 후 리뷰는 꼭 **팀장이 아닌 팀원 최소 1명**의 리뷰를 받아야 합니다.
+5. 리뷰어들은 table.txt에 이름이 잘 들어갔는지, table.txt파일의 테이블 근처에 사람이 3명이 모여 3인 테이블이 완성되었는지 확인해주세요.
+    1. 3인 테이블이 완성되었다면 - develop 브랜치에 merge,delete branch 후 main 브랜치에 pull request 요청을 보냅니다.
+    2. 3인 테이블이 완성되지 않았다면 - develop 브랜치에 merge,delete branch 하면 끝!
+
+
+## 유의사항
+
+- 팀원의 리뷰가 필요하니 슬랙이나 깃허브에서 리뷰어를 찾아 리뷰를 요청해주세요!
+- 리뷰어들은 리뷰 후 merge 이후에 pull request에 요청을 보낸 브랜치를 삭제해주세요!
