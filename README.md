@@ -146,8 +146,8 @@ git push origin <add-your-name>
 ## 요구되는 사전지식
 
 실습을 시작하기 전 git flow에 대한 선행 학습이 필요합니다. 크게 main-develop-feature브랜치로 나뉘어져 작업되는 flow를 잘 모르시는 분들은 구글링이나 아래 링크를 통해 꼭 공부를 하고 진행해주세요.
- 우린 Git-flow를 사용하고 있어요][https://techblog.woowahan.com/2553/]
- [Git flow 개념 이해하기][https://uxgjs.tistory.com/183]
+ [우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)
+ [Git flow 개념 이해하기](https://uxgjs.tistory.com/183)
 
 
 ## 여러분이 해야 할 일들
