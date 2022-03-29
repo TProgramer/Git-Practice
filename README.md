@@ -152,6 +152,8 @@ git push origin <add-your-name>
 
 ## 여러분이 해야 할 일들
 
+![설명자료](https://user-images.githubusercontent.com/31841502/160543681-7aa919ce-961d-45ef-917c-a584e8363746.png)
+
 1. git pull origin develop 을 통해 최신 버전의 develop브랜치를 가져옵니다. 자신이 작업할 브랜치 이름을 feature-이름 으로 작성해 작업해주세요.
 2. table.txt파일에 본인의 이름을 테이블 근처에 넣고 저장해주세요. 그 후 add,commit을 순서대로 진행 해 주세요.
 3. origin develop 브랜치에 push 후 pull request를 등록해주세요.
