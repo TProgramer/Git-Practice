@@ -29,7 +29,7 @@ git clone "방금 복사한 URL"
 예시:
 
 ```
-git clone https://github.com/Network-Leader/gitTEST.git
+git clone https://github.com/SSAFY-Seoul-Algorithm-Study/Git-Practice.git
 ```
 
 예시의 `this-is-you`는 본인 깃헙 계정으로 바꾸어주세요. 이 명령어는
@@ -40,7 +40,7 @@ git clone https://github.com/Network-Leader/gitTEST.git
 (아직 저장소 디렉토리가 아니라면) 아래의 명령어를 입력하여 좀전에 컴퓨터에 복사한 저장소 디렉토리로 이동합니다.
 
 ```
-cd gitTEST
+cd Git-Practice
 ```
 
 그리고 `git switch(checkout)` 명령어을 입력하여 브랜치를 생성합니다.
