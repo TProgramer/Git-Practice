@@ -1,8 +1,8 @@
-<details>
-<summary>첫 기여 테스트 [다시보기]</summary>
+<!-- <details> -->
+<!-- <summary>첫 기여 테스트 [다시보기]</summary> -->
 <div markdown="1">
 
-# 첫 기여
+# First Practice : `Contribution`
 
 어렵습니다. 무엇을 하든 누구나 처음에는 어렵게 느껴집니다. 특히 협업을 할 때 실수를 하기라도 하면 마음이 편치 않습니다. 그래서 저희는 새로운 오픈소스 기여자들이 첫 기여를 하고 그것을 익히는 과정을 단순화하고자 했습니다.
 
@@ -43,15 +43,23 @@ git clone https://github.com/Network-Leader/gitTEST.git
 cd gitTEST
 ```
 
-그리고 `git checkout` 명령어을 입력하여 브랜치를 생성합니다.
+그리고 `git switch(checkout)` 명령어을 입력하여 브랜치를 생성합니다.
 
 ```
+git switch -c <add-your-name>
+
+또는
+
 git checkout -b <add-your-name>
 ```
 
 예시:
 
 ```
+git switch -c add-alonzo-church
+
+또는
+
 git checkout -b add-alonzo-church
 ```
 
@@ -78,6 +86,12 @@ git commit -m "Add <Your-name> to Contributors list"
 ```
 
 `<Your-name>`을 본인 이름으로 바꾸세요.
+
+만약, 이미 한 번 add 했던 파일이라면 아래 명령어로 모든 파일을 한 번에 add + commit 할 수 있습니다.
+
+```
+git commit -am "Add <Your-name> to Contributors list"
+```
 
 ## 변경사항을 깃헙에 푸시하기
 
@@ -110,7 +124,7 @@ git push origin <add-your-name>
 </div>
 </details>
 
-<details>
+<!-- <details>
 <summary>👨‍🌾 에피소드1 : 모코코를 찾아라!! [다시보기] </summary>
 <div markdown="1">
 
@@ -201,4 +215,4 @@ git push origin <add-your-name>
 ## 유의사항
 
 - 팀원의 리뷰가 필요하니 슬랙이나 깃허브에서 리뷰어를 찾아 리뷰를 요청해주세요!
-- 리뷰어들은 리뷰 후 merge 이후에 pull request에 요청을 보낸 브랜치를 삭제해주세요!!
+- 리뷰어들은 리뷰 후 merge 이후에 pull request에 요청을 보낸 브랜치를 삭제해주세요!! -->
