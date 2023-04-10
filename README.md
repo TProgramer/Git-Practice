@@ -1,5 +1,5 @@
-<!-- <details> -->
-<!-- <summary>첫 기여 테스트 [다시보기]</summary> -->
+<details>
+<summary>첫 기여 테스트 [다시보기]</summary>
 <div markdown="1">
 
 # First Practice : `Contribution`
@@ -126,7 +126,7 @@ git push origin <add-your-name>
 
 <!-- <details>
 <summary>👨‍🌾 에피소드1 : 모코코를 찾아라!! [다시보기] </summary>
-<div markdown="1">
+<div markdown="1"> -->
 
 # 👨‍🌾 에피소드1 : 모코코를 찾아라!!
 
@@ -150,7 +150,7 @@ git push origin <add-your-name>
 </div>
 </details>
 
-<details>
+<!-- <details>
 <summary>🍗 에피소드2 : 모코코 치킨 종합선물세트! [다시보기] </summary>
 <div markdown="1">
 
