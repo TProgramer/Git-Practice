@@ -175,7 +175,7 @@ git push origin <add-your-name>
 2. table.txt파일에 본인의 이름을 테이블 근처에 넣고 저장해주세요. 그 후 add,commit을 순서대로 진행 해 주세요.
 3. origin develop 브랜치에 push 후 pull request를 등록해주세요.
 4. pull request 후 리뷰는 꼭 **팀장이 아닌 팀원 최소 2명**의 리뷰를 받아야 합니다.
-5. 리뷰어들은 table.txt에 이름이 잘 들어갔는지, table.txt파일의 테이블 근처에 사람이 3명이 모여 2인 테이블이 완성되었는지 확인해주세요.
+5. 리뷰어들은 table.txt에 이름이 잘 들어갔는지, table.txt파일의 테이블 근처에 사람이 2명이 모여 2인 테이블이 완성되었는지 확인해주세요.
    1. 2인 테이블이 완성되었다면 - develop 브랜치에 merge,delete branch 후 main 브랜치에 pull request 요청을 보냅니다.
    2. 2인 테이블이 완성되지 않았다면 - develop 브랜치에 merge,delete branch 하면 끝!
 
