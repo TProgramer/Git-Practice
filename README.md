@@ -179,6 +179,11 @@ git push origin <add-your-name>
    1. 2인 테이블이 완성되었다면 - develop 브랜치에 merge,delete branch 후 main 브랜치에 pull request 요청을 보냅니다.
    2. 2인 테이블이 완성되지 않았다면 - develop 브랜치에 merge,delete branch 하면 끝!
 
+## 리뷰를 남기는 방법
+<img width="1407" alt="image" src="https://user-images.githubusercontent.com/77713508/231183830-5ff8d013-cf43-4d4f-90bf-dfbedcbeb854.png">
+리뷰는 Pull Requests 탭에서 해당 Pull Request를 선택 후, Files changed 탭에서 우측 상단의 Review Changes 버튼으로 등록할 수 있습니다.
+여기서 Comment는 리뷰가 아닌 단순 댓글로 등록하기이므로 리뷰 수에 세어지지 않고, Approve를 통해 승인하거나 Request changes를 통해 아직 수정해야 점을 알릴 수 있습니다.
+
 ## 유의사항
 
 - 팀원의 리뷰가 필요하니 슬랙이나 깃허브에서 리뷰어를 찾아 리뷰를 요청해주세요!
