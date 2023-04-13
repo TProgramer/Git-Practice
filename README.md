@@ -150,9 +150,9 @@ git push origin <add-your-name>
 </div>
 </details>
 
-<!-- <details>
+<details>
 <summary>🍗 에피소드2 : 모코코 치킨 종합선물세트! [다시보기] </summary>
-<div markdown="1"> -->
+<div markdown="1">
 
 
 # 🍗 에피소드2 : 모코코 치킨 종합선물세트!
@@ -189,34 +189,28 @@ git push origin <add-your-name>
 - 팀원의 리뷰가 필요하니 슬랙이나 깃허브에서 리뷰어를 찾아 리뷰를 요청해주세요!
 - 리뷰어들은 리뷰 후 merge 이후에 pull request에 요청을 보낸 브랜치를 삭제해주세요!!
 
-<!-- </div>
+</div>
 </details>
 
 
 # 📔 에피소드3 : 모코코의 "여름방학 계획서" 복구하기 !!
 
-여러분들의 뛰어난 코딩실력을 보고 감동을 받은 모코코들이 여름방학 때 열심히 코딩을 공부해서 여러분들 같이 뛰어난 개발자가 되기로 결심했습니다! 모코코들은 2달이나 남은 여름방학의 계획서를 작성했다고 하는데요, 아니나 다를까 계획서는 엉망진창이었습니다. 거기다 여름방학 계획서는
+여러분들의 뛰어난 코딩실력을 보고 감동을 받은 모코코들이 여름방학 때 열심히 코딩을 공부해서 여러분들 같이 뛰어난 개발자가 되기로 결심했습니다! 모코코들은 2달이나 남은 여름방학의 계획서를 작성했다고 하는데요, 아니나 다를까 계획서는 엉망진창이었습니다. 거기다 여름방학 계획서는 모코코들만 기록/수정 할 수 있는 특수한 종이로 되어있어서 계획서를 직접 수정해줄 수 없다는 것을 알게되었습니다. 얼마남지 않은 기간에 모코코들이 하루빨리 공부를 시작할 수 있게 계획서를 그럴싸하게 채울 수 있도록 여러분이 도와주세요!
 
-![모코코콘1](https://user-images.githubusercontent.com/31841502/160538195-de89d2ba-acef-4709-9262-a52816da89a9.png)
+![여름방학모코코](https://cdn-lostark.game.onstove.com/2021/event/210707_vacation/images/banner_share.jpg?v=20230323135831)
 
 ## 요구되는 사전지식
-실습을 시작하기 전 git flow에 대한 선행 학습이 필요합니다. 크게 main-develop-feature브랜치로 나뉘어져 작업되는 flow를 잘 모르시는 분들은 구글링이나 아래 링크를 통해 꼭 공부를 하고 진행해주세요.  
- [우린 Git-flow를 사용하고 있어요](https://techblog.woowahan.com/2553/)  
- [Git flow 개념 이해하기](https://uxgjs.tistory.com/183)
+실습을 시작하기 전, 저번 실습 때 배웠던 git flow에 대한 복습이 필요합니다. 아래 사진과 같이 크게 Upstream-Origin-Local 레포지토리로 나뉘어져 작업하는 flow를 아직 잘 모르겠다는 분들은 구글링이나 아래 링크를 통해 꼭 공부를 하고 진행해주세요.  
+ ![우린 Git-flow를 사용하고 있어요](https://t1.daumcdn.net/cfile/tistory/99E9D24E5E69CCF224)
 
 ## 여러분이 해야 할 일들
 
-<img src="https://user-images.githubusercontent.com/31841502/160543681-7aa919ce-961d-45ef-917c-a584e8363746.png" width="400" height="400"/>
+1. 우리의 Git-Practice 레포지토리에 접속한 후, 우측 상단의 `Fork` 버튼을 눌러 레포지토리를 포크해주세요.
+2. 개인 레포지토리로 복사된 Git-Practice를 clone 후 개인 브랜치 상에서 모코코들의 계획서를 수정해주세요.
+3. origin `개인 브랜치` 에 Push 후, Fork한 레포지토리에 들어가서 Upstream으로 Pull Request를 등록해주세요.
 
-1. git pull origin develop 을 통해 최신 버전의 develop브랜치를 가져옵니다. 자신이 작업할 브랜치 이름을 feature-이름 으로 작성해 작업해주세요.
-2. table.txt파일에 본인의 이름을 테이블 근처에 넣고 저장해주세요. 그 후 add,commit을 순서대로 진행 해 주세요.
-3. origin develop 브랜치에 push 후 pull request를 등록해주세요.
-4. pull request 후 리뷰는 꼭 **팀장이 아닌 팀원 최소 1명**의 리뷰를 받아야 합니다.
-5. 리뷰어들은 table.txt에 이름이 잘 들어갔는지, table.txt파일의 테이블 근처에 사람이 3명이 모여 3인 테이블이 완성되었는지 확인해주세요.
-   1. 3인 테이블이 완성되었다면 - develop 브랜치에 merge,delete branch 후 main 브랜치에 pull request 요청을 보냅니다.
-   2. 3인 테이블이 완성되지 않았다면 - develop 브랜치에 merge,delete branch 하면 끝!
+## 개인 레포지토리에서 PR 버튼이 보이지 않는다면
 
-## 유의사항
 
-- 팀원의 리뷰가 필요하니 슬랙이나 깃허브에서 리뷰어를 찾아 리뷰를 요청해주세요!
-- 리뷰어들은 리뷰 후 merge 이후에 pull request에 요청을 보낸 브랜치를 삭제해주세요!! -->
+
+-> 레포지토리 메인에서 브랜치를 작업한 개인 브랜치로 전환해주세요.
